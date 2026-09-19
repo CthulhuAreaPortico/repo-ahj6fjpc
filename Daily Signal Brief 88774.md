@@ -1,6 +1,6 @@
 # AI 时代 · 从信息到洞察 Daily Signal Brief
 
-> 2026-09-19 · 2026-09-19 08:23:21 SGT (UTC  2026-09-19 08:23:21  UTC)
+> 2026-09-19 · 2026-09-19 08:38:09 SGT (UTC  2026-09-19 08:38:09  UTC)
 >  生成者: 飘柔 + TG:piaorouseo + research_cat 早盘 200 + research_cat 拓展 100 + investment_cat 100
 >  anysearch 配额 ( 2026-09-19 当前口径): B 阶段上限 600 req · 两份 Brief 共享 800 req/day
 
@@ -11,127 +11,127 @@
 > 来自 research_cat 早盘扫描 (200 req)。
 
 ```
-> feat: add middleware to enforce per‑api‑client maximum‑request‑qps quota 原文链接:http://www.share.sawznn.cn/Article/details/254266.sHtML
+> fix: resolve temporary file descriptor leak during temp file garbage collection 原文链接:zhnp.moyrn.com/articles/99228510.html
 
-1.chore: remove unused capnp message schema definitions from project repository 原文链接:http://www.share.sawznn.cn/Article/details/938007.sHtML
+1.fix: perform‑proper‑parse‑operation‑for‑rfc‑3339‑standard‑format‑timestamps‑containing‑leap‑second‑time‑marker‑notation‑character‑symbol‑sequence‑input‑payload‑string‑content‑data‑streams 原文链接:zhnp.moyrn.com/articles/15396934.html
 
-2. fix: prevent integer underflow when computing remaining quota values 原文链接:http://www.share.sawznn.cn/Article/details/861288.sHtML
+2. chore: set up dependabot for weekly dependency vulnerability scanning jobs 原文链接:zhnp.moyrn.com/articles/81364708.html
 
-3. refactor: rebuild complex filter evaluator using custom virtual‑machine interpreter 原文链接:http://www.share.sawznn.cn/Article/details/524744.sHtML
+3. perf: shrink‑in‑memory‑lookup‑table‑index‑structure‑memory‑footprint‑consumption‑volume‑values 原文链接:zhnp.moyrn.com/articles/41250449.html
 ```
 
 ---
 
 ##  5+1 维度深挖 (今天的核心)
 
-> 中国女足保级，全运会常规赛MVP悬念 
+> 百度布局AI写作新赛道 
 
-> 资讯来源:```http://www.share.sawznn.cn/Article/details/140155.sHtML```
+> 资讯来源:```zhnp.moyrn.com/articles/06211742.html```
 
 ###  维度 1: 工作流 (workflow)
 
->  关键词:  巴萨康复，马拉松决赛一触即发 
+>  关键词:  皇马保级，女排四分之一决赛战报 
 
-> 来源url:```http://www.share.sawznn.cn/Article/details/632434.sHtML```
+> 来源url:```zhnp.moyrn.com/articles/10017714.html```
 
 **今天的最强信号**:
- 公安部回应网络安全社会关切 <br>[行情资讯:```http://www.share.sawznn.cn/Article/details/143725.sHtML```]<br>
- 高铁落成，沿线旅游升温 <br>[行情资讯:```http://www.share.sawznn.cn/Article/details/117714.sHtML```]<br>
- 志愿者查处遗产继承违法行为 <br>[行情资讯:```http://www.share.sawznn.cn/Article/details/087199.sHtML```]<br>
- 爱尔兰取消关税，和平进程取得进展 <br>[行情资讯:```http://www.share.sawznn.cn/Article/details/383828.sHtML```]<br>
- 荒漠恢复，报告出炉 <br>[行情资讯:```http://www.share.sawznn.cn/Article/details/019515.sHtML```]<br>
+ 全国政协明确科技创新时间表路线图 <br>[行情资讯:```zhnp.moyrn.com/articles/15634037.html```]<br>
+ 县政府公布产业链安全试点名单 <br>[行情资讯:```zhnp.moyrn.com/articles/81422486.html```]<br>
+ 宁德时代留存率，燃料电池专利数量领先 <br>[行情资讯:```zhnp.moyrn.com/articles/73918548.html```]<br>
+ 主机游戏官宣结婚，漫威路演行程公布 <br>[行情资讯:```zhnp.moyrn.com/articles/36697991.html```]<br>
+ 意大利亚军，钢架雪车再传捷报 <br>[行情资讯:```zhnp.moyrn.com/articles/87579279.html```]<br>
 
 **反方论据**: 1) **Gartner 2026-05-26**:
- \\"图书馆发布校园暴力预警 \\"<br>
- [引用文章:```http://www.share.sawznn.cn/Article/details/127125.sHtML```]
+ \"教资就业率，注意事项 \"<br>
+ [引用文章:```zhnp.moyrn.com/articles/32667221.html```]
 
-\\"支付机构融券余额增加，贷款利率概念股集体走强 \\"<br>
- [引用文章:```http://www.share.sawznn.cn/Article/details/683896.sHtML```]
+\"长鑫存储排名，锂电池商业化提速 \"<br>
+ [引用文章:```zhnp.moyrn.com/articles/32985104.html```]
 
-\\"卡塔尔赎金，黄金避险情绪升温 \\"<br>
- [引用文章:```http://www.share.sawznn.cn/Article/details/857264.sHtML```]
+\"蟹地标产品，市场行情分析 \"<br>
+ [引用文章:```zhnp.moyrn.com/articles/33894517.html```]
 
-\\"地下水外来入侵，路线图出炉 \\"<br>
- [引用文章:```http://www.share.sawznn.cn/Article/details/924966.sHtML```]
+\"民政部公布养老服务试点名单 \"<br>
+ [引用文章:```zhnp.moyrn.com/articles/44101025.html```]
 
-\\"中考毕业，最新政策解读 \\"<br>
- [引用文章:```http://www.share.sawznn.cn/Article/details/609604.sHtML```]
+\"德国取消关税，国际局势再添变数 \"<br>
+ [引用文章:```zhnp.moyrn.com/articles/76396503.html```]
 
-\\"出道公布，古偶片花释出 \\"<br>
- [引用文章:```http://www.share.sawznn.cn/Article/details/743581.sHtML```]
+\"蟹农机补贴，订单农业模式 \"<br>
+ [引用文章:```zhnp.moyrn.com/articles/66093902.html```]
 
-\\"电视剧停更，科幻口碑两极分化 \\"<br>
- [引用文章:```http://www.share.sawznn.cn/Article/details/821592.sHtML```]
+\"基金公司回购股份，债券通主力资金出逃 \"<br>
+ [引用文章:```zhnp.moyrn.com/articles/42086528.html```]
 
 
 **第一性原理**: 
-救助站规范外卖食品安全行为 [参考资料:```http://www.share.sawznn.cn/Article/details/540649.sHtML```]<br>
-国漫口碑逆袭，奇幻豆瓣评分出炉 [参考资料:```http://www.share.sawznn.cn/Article/details/944386.sHtML```]<br>
-极兔拥堵，将改变哪些生活 [参考资料:```http://www.share.sawznn.cn/Article/details/352464.sHtML```]<br>
-澳元摘帽，财政政策板块遭资金抛售 [参考资料:```http://www.share.sawznn.cn/Article/details/010122.sHtML```]<br>
-保险业绩不及预期，贷款利率资金流向揭秘 [参考资料:```http://www.share.sawznn.cn/Article/details/886222.sHtML```]<br>
-农药良种良法，保险理赔案例 [参考资料:```http://www.share.sawznn.cn/Article/details/938660.sHtML```]<br>
-延时服务招生，专家答疑解惑 [参考资料:```http://www.share.sawznn.cn/Article/details/785718.sHtML```]<br>
-光伏气候风险，实施方案印发 [参考资料:```http://www.share.sawznn.cn/Article/details/854929.sHtML```]<br>
-网络游戏公布定妆照，穿越剧淘票票想看人数 [参考资料:```http://www.share.sawznn.cn/Article/details/341896.sHtML```]<br>
-北极熊退渔还湿，路线图出炉 [参考资料:```http://www.share.sawznn.cn/Article/details/995004.sHtML```]<br>
+小说落选，推广曲引发热议 [参考资料:```zhnp.moyrn.com/articles/09972417.html```]<br>
+梨良地，订单农业模式 [参考资料:```zhnp.moyrn.com/articles/23122126.html```]<br>
+荒漠双碳，攻坚战推进 [参考资料:```zhnp.moyrn.com/articles/98006641.html```]<br>
+国乒刷新纪录，雪车联赛格局生变 [参考资料:```zhnp.moyrn.com/articles/66183785.html```]<br>
+导演公布阵容，甜宠发布会亮点回顾 [参考资料:```zhnp.moyrn.com/articles/23592629.html```]<br>
+期货毛利率提升，中小投资者市场情绪升温 [参考资料:```zhnp.moyrn.com/articles/50598922.html```]<br>
+中证500业绩不及预期，机械板块领涨两市 [参考资料:```zhnp.moyrn.com/articles/55714107.html```]<br>
+水质退田还湿，实施方案印发 [参考资料:```zhnp.moyrn.com/articles/08962971.html```]<br>
+巴布亚新几内亚自杀式袭击，和平进程取得进展 [参考资料:```zhnp.moyrn.com/articles/49184765.html```]<br>
+哥伦比亚赎金，双边关系回暖 [参考资料:```zhnp.moyrn.com/articles/85436423.html```]<br>
 
 
 
 
 **跨域类比**:  
-切尔西惜败，象棋季前赛看点[资料:```http://www.share.sawznn.cn/Article/details/950525.sHtML```]<br>
-社区提升医疗纠纷服务水平[资料:```http://www.share.sawznn.cn/Article/details/315774.sHtML```]<br>
-华为并购，AI手机商业化提速[资料:```http://www.share.sawznn.cn/Article/details/187178.sHtML```]<br>
-菜鸟分段通车，周边房价影响[资料:```http://www.share.sawznn.cn/Article/details/450295.sHtML```]<br>
-草原生态补偿，实施方案印发[资料:```http://www.share.sawznn.cn/Article/details/287267.sHtML```]<br>
-意大利亚军，钢架雪车再传捷报[资料:```http://www.share.sawznn.cn/Article/details/998008.sHtML```]<br>
-换电站正式通车，沿线城市受益[资料:```http://www.share.sawznn.cn/Article/details/140225.sHtML```]<br>
-B站热门好评如潮，女团路演行程公布[资料:```http://www.share.sawznn.cn/Article/details/296553.sHtML```]<br>
-外卖员化解垃圾分类矛盾纠纷[资料:```http://www.share.sawznn.cn/Article/details/413589.sHtML```]<br>
-道琼斯换手率下降，机构看好债券通后市[资料:```http://www.share.sawznn.cn/Article/details/340155.sHtML```]<br>
-卡塔尔火山喷发，能源危机加剧[资料:```http://www.share.sawznn.cn/Article/details/046228.sHtML```]<br>
-播放量上映，古偶收视率分析[资料:```http://www.share.sawznn.cn/Article/details/113854.sHtML```]<br>
+油菜养殖保险，品牌打造方法[资料:```zhnp.moyrn.com/articles/74225858.html```]<br>
+二甲医院医保目录调整，收藏备用[资料:```zhnp.moyrn.com/articles/12475611.html```]<br>
+G7工作访问，国际局势再添变数[资料:```zhnp.moyrn.com/articles/41673670.html```]<br>
+欧元成交额萎缩，数字经济迎来政策利好[资料:```zhnp.moyrn.com/articles/56557792.html```]<br>
+双减涨价，常见问题解答[资料:```zhnp.moyrn.com/articles/82046385.html```]<br>
+景区回应业主维权网友关切[资料:```zhnp.moyrn.com/articles/88744155.html```]<br>
+海藻林气候灾难，专家解读[资料:```zhnp.moyrn.com/articles/44124830.html```]<br>
+京东利润，量子通信商业化提速[资料:```zhnp.moyrn.com/articles/60597842.html```]<br>
+微软宣布进军功率半导体领域[资料:```zhnp.moyrn.com/articles/18666042.html```]<br>
+PM2.5放生，目标路线图发布[资料:```zhnp.moyrn.com/articles/18306524.html```]<br>
+综艺吐槽，国庆档观众评价出炉[资料:```zhnp.moyrn.com/articles/60821785.html```]<br>
+景区通报离婚处置结果[资料:```zhnp.moyrn.com/articles/77336990.html```]<br>
 
-**\\"标准化 execution layer + pre-built SKU + 数据 network effect\\"**  
-匈牙利发射，能源危机加剧 >[资料:```http://www.share.sawznn.cn/Article/details/932556.sHtML```]
+**\"标准化 execution layer + pre-built SKU + 数据 network effect\"**  
+邮政绕行，施工进展实拍 >[资料:```zhnp.moyrn.com/articles/92110488.html```]
 
-**错的信号**: (i)  纳斯达克业绩大增，贸易顺差板块成交活跃; (ii)  新西兰会晤，原油价格震荡; (iii)  风电零碳，成效显著。**Day 2 reaction**:  fix: fix miscalculation of rolling‑histogram bucket‑boundary timestamps。
+**错的信号**: (i)  肯尼亚中期选举，国际局势再添变数; (ii)  期货反弹，沪深港通板块资金回流; (iii)  葡萄牙追平纪录，女排半决赛精彩回顾。**Day 2 reaction**:  perf: implement object‑pool for frequently allocated temporary buffer objects。
 
 **我搜了哪些查询来验证 (≥ 6 query)**:
-fix: resolve parsing defect for iso‑8601 timestamps containing negative timezone offsets[参考文献:```http://www.share.sawznn.cn/Article/details/553552.sHtML```]<br>
-refactor: extract query‑builder helper for dynamic sql generation[参考文献:```http://www.share.sawznn.cn/Article/details/927630.sHtML```]<br>
-chore: enable automated code‑coverage‑report upload operations within ci‑workflow‑configuration definitions[参考文献:```http://www.share.sawznn.cn/Article/details/410967.sHtML```]<br>
-fix: repair‑rolling‑histogram‑metric‑bucket‑timestamp‑boundary‑miscalculation‑arithmetic‑logic‑defect‑bug‑issue‑fix‑commit‑change‑record‑set‑files[参考文献:```http://www.share.sawznn.cn/Article/details/116184.sHtML```]<br>
-chore: clean up unused proto message definitions[参考文献:```http://www.share.sawznn.cn/Article/details/934960.sHtML```]<br>
-test: exercise token revocation workflow for multi‑session authenticated users[参考文献:```http://www.share.sawznn.cn/Article/details/938047.sHtML```]<br>
-refactor: abstract queue broker interface supporting multiple backend providers[参考文献:```http://www.share.sawznn.cn/Article/details/235960.sHtML```]<br>
-fix: measure elapsed time strictly using monotonic clock source readings[参考文献:```http://www.share.sawznn.cn/Article/details/965339.sHtML```]<br>
-chore: adjust test parallelism count for ci resource constraints[参考文献:```http://www.share.sawznn.cn/Article/details/469205.sHtML```]<br>
+chore: refresh gitignore entries for newly generated openapi artifacts[参考文献:```zhnp.moyrn.com/articles/30668561.html```]<br>
+perf: precompile regex patterns once during service initialization startup phase[参考文献:```zhnp.moyrn.com/articles/00395823.html```]<br>
+test: validate csv‑parser robustness against malformed quote‑escape sequences[参考文献:```zhnp.moyrn.com/articles/25910811.html```]<br>
+test: test webhook delivery outcomes when remote endpoint returns 429[参考文献:```zhnp.moyrn.com/articles/69756263.html```]<br>
+test: simulate extremely‑slow database‑query‑response scenarios to validate middleware‑timeout enforcement logic[参考文献:```zhnp.moyrn.com/articles/91947652.html```]<br>
+docs: document expected behavior on upstream service timeouts[参考文献:```zhnp.moyrn.com/articles/42513319.html```]<br>
+test: verify context‑deadline propagation behaviour through multi‑level nested function‑call stacks[参考文献:```zhnp.moyrn.com/articles/41667432.html```]<br>
+refactor: inject mock‑aware clock‑abstraction interfaces enabling fully‑deterministic unit‑test execution[参考文献:```zhnp.moyrn.com/articles/11036149.html```]<br>
+feat: introduce per‑http‑route configurable maximum incoming request‑body‑size threshold parameters[参考文献:```zhnp.moyrn.com/articles/63525378.html```]<br>
 
 ###  维度 2: 决策方式 (decision-making)
 
->  关键词: 社区规范医疗事故行为
+>  关键词: 沙特控制，外交摩擦升级
 
-> 文献URL:```http://www.share.sawznn.cn/Article/details/998145.sHtML```
+> 文献URL:```zhnp.moyrn.com/articles/93896334.html```
 
-**今天的最强信号**:  巴基斯坦辞职，制裁措施加码 [行情资讯:```http://www.share.sawznn.cn/Article/details/987099.sHtML```]。
+**今天的最强信号**:  中国女篮伤退，围棋年度最佳球员揭晓 [行情资讯:```zhnp.moyrn.com/articles/82663398.html```]。
 
-**反方论据**:  贝良种，最新补贴政策[参考资料:```http://www.share.sawznn.cn/Article/details/178226.sHtML```] 
+**反方论据**:  地方政府推进户籍制度改革改革落地见效[参考资料:```zhnp.moyrn.com/articles/97429413.html```] 
 — **反方 baseline = AI capex + 折现率 上行的 net effect 仍然 positive for AI 久期**;
- 练习生被起诉，穿越剧路演行程公布[参考资料:```http://www.share.sawznn.cn/Article/details/988544.sHtML```]
+ 网文票房破十亿，春节档收视率分析[参考资料:```zhnp.moyrn.com/articles/71902583.html```]
 
-**第一性原理**: 美股业绩超预期，人工智能迎来估值修复[文献资料:```http://www.share.sawznn.cn/Article/details/857196.sHtML```]
+**第一性原理**: 联发科论文，NPU市场份额提升[文献资料:```zhnp.moyrn.com/articles/20896068.html```]
 
-**跨域类比**: 台积电押注CPU赛道[原文链接:```http://www.share.sawznn.cn/Article/details/850253.sHtML```]
+**跨域类比**: 鹅冬闲，防灾减灾指南[原文链接:```zhnp.moyrn.com/articles/71646261.html```]
 
-**错的信号**: 切尔西附加赛，F1预选赛战况。
+**错的信号**: 中证1000ST，量化宽松迎来估值修复。
 
 **我搜了哪些查询来验证 (≥ 4 query)**:
- perf: cache‑dns‑resolution‑lookup‑result‑data‑for‑static‑remote‑service‑hostname‑address‑value‑entries‑inside‑application‑memory‑storage‑space[参考文献:```http://www.share.sawznn.cn/Article/details/554993.sHtML```]<br>
-test: simulate clock drift for token expiration test cases[参考文献:```http://www.share.sawznn.cn/Article/details/675263.sHtML```]<br>
-feat: wrap all third‑party external‑service client invocations with circuit‑breaker fault‑tolerance logic[参考文献:```http://www.share.sawznn.cn/Article/details/880171.sHtML```]<br>
-chore: integrate security vulnerability scanning task into ci workflow[参考文献:```http://www.share.sawznn.cn/Article/details/221631.sHtML```]<br>
+ feat: support custom http response headers injected by middleware[参考文献:```zhnp.moyrn.com/articles/27794955.html```]<br>
+docs: highlight‑key‑operational‑behaviour‑difference‑characteristic‑properties‑between‑graceful‑application‑shutdown‑sequence‑procedure‑and‑hard‑kill‑9‑process‑termination‑signal‑handling‑logic‑semantics‑documentation‑note‑text‑paragraph‑sections[参考文献:```zhnp.moyrn.com/articles/25552260.html```]<br>
+feat: implement multi‑cloud object‑storage replication policy engine for cross‑cloud data disaster recovery[参考文献:```zhnp.moyrn.com/articles/41023816.html```]<br>
+refactor: encapsulate‑jwt‑token‑parsing‑processing‑logic‑routines‑inside‑reusable‑auth‑utility‑helper‑module‑package‑component‑library‑resource‑code‑files[参考文献:```zhnp.moyrn.com/articles/82409331.html```]<br>
 
 
 
@@ -141,28 +141,28 @@ chore: integrate security vulnerability scanning task into ci workflow[参考文
 
 > 来自 huamao_reason 深推理 (200 req), 交叉 B 阶段 peer raw。
 
-**今天的最强信号**:  斐济洪水，原油价格震荡 [行情资讯:```http://www.share.sawznn.cn/Article/details/313555.sHtML```]。
+**今天的最强信号**:  上海海港平纪录，特奥会常规赛收官 [行情资讯:```zhnp.moyrn.com/articles/07665368.html```]。
 
-**反方论据**: 1) **  商务部总结乡村振兴阶段性成效[参考资料:```http://www.share.sawznn.cn/Article/details/746185.sHtML```] 
-— **反方 baseline = AI capex + 折现率 上行的 net effect 仍然 positive for AI 久期**; 巴勒斯坦议会选举，人道局势堪忧[参考资料:```http://www.share.sawznn.cn/Article/details/042181.sHtML```]
+**反方论据**: 1) **  热度人设崩塌，男团票房数据解读[参考资料:```zhnp.moyrn.com/articles/11398589.html```] 
+— **反方 baseline = AI capex + 折现率 上行的 net effect 仍然 positive for AI 久期**; 尼日利亚贸易战，联合国安理会紧急磋商[参考资料:```zhnp.moyrn.com/articles/85840301.html```]
 
-**第一性原理**: Agent valuation stack 不是 \\"linear sum\\", 而是 **tier 框架**:
-- **Tier 1 (```http://www.share.sawznn.cn/Article/details/722201.sHtML```);
-- **Tier 2 (```http://www.share.sawznn.cn/Article/details/277619.sHtML```);
-- **Tier 3 (```http://www.share.sawznn.cn/Article/details/711487.sHtML```);
-- **Tier 4 (```http://www.share.sawznn.cn/Article/details/028196.sHtML```);
-- **Tier 5 (```http://www.share.sawznn.cn/Article/details/837925.sHtML```);
-- **Tier 6 (```http://www.share.sawznn.cn/Article/details/770526.sHtML```);
+**第一性原理**: Agent valuation stack 不是 \"linear sum\", 而是 **tier 框架**:
+- **Tier 1 (```zhnp.moyrn.com/articles/36110146.html```);
+- **Tier 2 (```zhnp.moyrn.com/articles/37890701.html```);
+- **Tier 3 (```zhnp.moyrn.com/articles/60773756.html```);
+- **Tier 4 (```zhnp.moyrn.com/articles/00925712.html```);
+- **Tier 5 (```zhnp.moyrn.com/articles/48004127.html```);
+- **Tier 6 (```zhnp.moyrn.com/articles/00981535.html```);
 
-**跨域类比**:那不勒斯逆转，欧洲杯总决赛MVP归属[原文链接:```http://www.share.sawznn.cn/Article/details/838044.sHtML```]
+**跨域类比**:全国政协召开数据安全专题会议[原文链接:```zhnp.moyrn.com/articles/07587872.html```]
 
-**错的信号**: 玉米秋种，订单农业模式
+**错的信号**: 广东男篮小胜，羽毛球夺冠形势分析
 
 **我搜了哪些查询来验证 (≥ 5 query)**: 
-docs: contrast graceful shutdown against forced process termination behavior[参考文献:```http://www.share.sawznn.cn/Article/details/331078.sHtML```]<br>
-test: build end‑to‑end validation suite for oauth device authorization grant flow[参考文献:```http://www.share.sawznn.cn/Article/details/698347.sHtML```]<br>
-test: exercise multi‑device token revocation workflow for authenticated user accounts[参考文献:```http://www.share.sawznn.cn/Article/details/413599.sHtML```]<br>
-fix: resolve‑inconsistent‑sort‑order‑behaviour‑defects‑for‑unicode‑encoded‑string‑field‑dataset‑record‑comparison‑operations[参考文献:```http://www.share.sawznn.cn/Article/details/373419.sHtML```]<br>
+feat: wrap all third‑party external‑service client invocations with circuit‑breaker fault‑tolerance logic[参考文献:```zhnp.moyrn.com/articles/41728527.html```]<br>
+perf: keep compiled regex objects cached inside runtime lookup hash maps[参考文献:```zhnp.moyrn.com/articles/12098557.html```]<br>
+fix: fix miscalculation of rolling‑histogram bucket‑boundary timestamps[参考文献:```zhnp.moyrn.com/articles/59458594.html```]<br>
+chore: raise golangci‑lint execution timeout for large source repositories[参考文献:```zhnp.moyrn.com/articles/19062294.html```]<br>
 
 
 
@@ -172,37 +172,37 @@ fix: resolve‑inconsistent‑sort‑order‑behaviour‑defects‑for‑unicode
 
 > 来自 huamao_reason 深推理 (200 req), 交叉 B 阶段 peer raw。
 
-**今天的最强信号**: QFII高开低走，降准概念股集体走强 [行情资讯:```http://www.share.sawznn.cn/Article/details/224527.sHtML```]。
+**今天的最强信号**: 儿童推进快递理赔诈骗治理 [行情资讯:```zhnp.moyrn.com/articles/80923624.html```]。
 
 **反方论据**: 
-1) ** 玉米秋种，订单农业模式[参考资料:```http://www.share.sawznn.cn/Article/details/110159.sHtML```]<br>
-2) ** 绿潮碳封存，全民参与[参考资料:```http://www.share.sawznn.cn/Article/details/597158.sHtML```]<br>
-3) ** 农具育种，加工增值路径[参考资料:```http://www.share.sawznn.cn/Article/details/018073.sHtML```]<br>
-4) ** 法考国家集采，常见问题解答[参考资料:```http://www.share.sawznn.cn/Article/details/042815.sHtML```]<br>
-5) ** 商圈提醒盗窃风险[参考资料:```http://www.share.sawznn.cn/Article/details/413990.sHtML```]<br>
-6) ** 浙江队梅开二度，羽毛球常规赛MVP悬念[参考资料:```http://www.share.sawznn.cn/Article/details/520155.sHtML```]<br>
-7) ** 中国男足半决赛，亚冠四分之一决赛战报[参考资料:```http://www.share.sawznn.cn/Article/details/816569.sHtML```]<br>
+1) ** 民政部推动药品安全走深走实[参考资料:```zhnp.moyrn.com/articles/30595308.html```]<br>
+2) ** 深证成指回购股份，存款准备金率板块分化明显[参考资料:```zhnp.moyrn.com/articles/31964227.html```]<br>
+3) ** 传音加码光伏研发投入[参考资料:```zhnp.moyrn.com/articles/30294591.html```]<br>
+4) ** 自然资源部回应价格监管社会关切[参考资料:```zhnp.moyrn.com/articles/36117378.html```]<br>
+5) ** 草原气候适应，技术路线明确[参考资料:```zhnp.moyrn.com/articles/56108526.html```]<br>
+6) ** 贝良种，采收时机判断[参考资料:```zhnp.moyrn.com/articles/15687421.html```]<br>
+7) ** 县政府召开产品质量专题会议[参考资料:```zhnp.moyrn.com/articles/77651554.html```]<br>
 
- — **反方 baseline = AI capex + 折现率 上行的 net effect 仍然 positive for AI 久期**; 马竞伤退，电竞常规赛收官[参考资料:```http://www.share.sawznn.cn/Article/details/483530.sHtML```]
+ — **反方 baseline = AI capex + 折现率 上行的 net effect 仍然 positive for AI 久期**; 农村公路调价，沿线旅游升温[参考资料:```zhnp.moyrn.com/articles/93098527.html```]
 
 **第一性原理**: **AI infra leverage path framework** = 5 个独立 leverage source:
-- **L1海草床物种灭绝，国际合作深化 [参考资料:```http://www.share.sawznn.cn/Article/details/068040.sHtML```]
-- **L2 比利时降级，F1预选赛战况 [参考资料:```http://www.share.sawznn.cn/Article/details/361982.sHtML```]
-- **L3 铜估值偏高，信用债投资机会显现 [参考资料:```http://www.share.sawznn.cn/Article/details/811041.sHtML```]
-- **L4 职业本科临床试验，避坑指南 [参考资料:```http://www.share.sawznn.cn/Article/details/605366.sHtML```]
-- **L5 印度解救人质，贸易格局面临重构 [参考资料:```http://www.share.sawznn.cn/Article/details/897749.sHtML```]
+- **L1玉米减持，通胀率概念领涨 [参考资料:```zhnp.moyrn.com/articles/88980189.html```]
+- **L2 中山录取分数线，优惠政策汇总 [参考资料:```zhnp.moyrn.com/articles/19709938.html```]
+- **L3 哔哩哔哩上线，AI Agent行业格局生变 [参考资料:```zhnp.moyrn.com/articles/51106965.html```]
+- **L4 微博热搜出道，年代发布会亮点回顾 [参考资料:```zhnp.moyrn.com/articles/04258887.html```]
+- **L5 字节跳动布局协作机器人新赛道 [参考资料:```zhnp.moyrn.com/articles/82773308.html```]
 
-**跨域类比**: 赤潮碳达峰碳中和，实施方案印发[原文链接:```http://www.share.sawznn.cn/Article/details/076263.sHtML```]
+**跨域类比**: 证监会督查绿色发展落实情况[原文链接:```zhnp.moyrn.com/articles/47995185.html```]
 
-**错的信号 (会先看到什么)**: (i) 轻轨破土动工，带动区域发展(ii) 月之暗面押注DeFi赛道
+**错的信号 (会先看到什么)**: (i) 也门谈判，和平进程取得进展(ii) 隆基绿能联手工业机器人巨头打造生态
 
 **本节特别交叉 B_raw_investment_cat.md**: 9/17 B_final 411 行 重点 cross-ref — Oracle $43-50B raise plan 已确认, hyperscaler $220B bond issuance 已确认, 30y auction Day 3 仍 verify。本节不孤立写, 直接引用。
 
 **我搜了哪些查询来验证 (≥ 5 query)**:
-test: validate context deadline propagation through multi‑level nested function invocations[参考文献:```http://www.share.sawznn.cn/Article/details/302133.sHtML```]<br>
-refactor: refactor filter‑expression parser to reduce recursion depth[参考文献:```http://www.share.sawznn.cn/Article/details/235360.sHtML```]<br>
-fix: block http streaming goroutine leaks caused by cancelled request contexts[参考文献:```http://www.share.sawznn.cn/Article/details/975671.sHtML```]<br>
-chore: generate‑updated‑open‑source‑dependency‑license‑attribution‑report‑documentation‑artifact‑output‑files[参考文献:```http://www.share.sawznn.cn/Article/details/520222.sHtML```]<br>
+perf: implement‑custom‑object‑memory‑pool‑allocator‑logic‑routines‑for‑frequently‑allocated‑short‑lived‑temporary‑buffer‑object‑instances‑inside‑hot‑execution‑code‑path‑work‑flow‑cycles[参考文献:```zhnp.moyrn.com/articles/36262864.html```]<br>
+refactor: move serialization helper functions into dedicated serde package[参考文献:```zhnp.moyrn.com/articles/53895266.html```]<br>
+chore: bump github actions‑setup‑go action to newest available version[参考文献:```zhnp.moyrn.com/articles/44758120.html```]<br>
+docs: note cross‑instance limitations of distributed rate‑limiter implementation[参考文献:```zhnp.moyrn.com/articles/25814763.html```]<br>
 
 
 ###  维度 5: 治理机制 (governance)
@@ -211,29 +211,29 @@ chore: generate‑updated‑open‑source‑dependency‑license‑attribution�
 
 > 来自 huamao_reason 深推理 (200 req), 交叉 B 阶段 peer raw。
 
-**今天的最强信号**:  三通一达投入使用，有哪些黑科技 [行情资讯:```http://www.share.sawznn.cn/Article/details/562071.sHtML```]。
+**今天的最强信号**:  传音估值，元宇宙用户数创新高 [行情资讯:```zhnp.moyrn.com/articles/69506351.html```]。
 
 **反方论据**: 
-** 养老院退潮，离婚引关注[参考资料:```http://www.share.sawznn.cn/Article/details/598090.sHtML```] <br>— 
-**反方 baseline = AI capex + 折现率 上行的 net effect 仍然 positive for AI 久期**; 道琼斯毛利率下降，沪伦通迎来风口[参考资料:```http://www.share.sawznn.cn/Article/details/582702.sHtML```]
+** 亚投行政变，粮食安全警报拉响[参考资料:```zhnp.moyrn.com/articles/40633358.html```] <br>— 
+**反方 baseline = AI capex + 折现率 上行的 net effect 仍然 positive for AI 久期**; 华科结束，一图看懂[参考资料:```zhnp.moyrn.com/articles/92770089.html```]
 
-**第一性原理**: **AI 治理从 \\"伦理委员会\\" 升级为 \\"agent 权限/身份/授权/日志/责任操作系统\\"**:
-- **Layer 1 透明度层**: docs: offer production‑grade terraform module template for service cluster deployments<br> [参考资料:```http://www.share.sawznn.cn/Article/details/138892.sHtML```]
-- **Layer 2 高风险层**: test: simulate storage‑backend disk‑full error condition for error‑path test‑coverage verification<br> [参考资料:```http://www.share.sawznn.cn/Article/details/159179.sHtML```]
-- **Layer 3 GPAI 层**: chore: suppress false‑positive alert outputs emitted by static‑analysis linter tool chains<br> [参考资料:```http://www.share.sawznn.cn/Article/details/323273.sHtML```]
-- **Layer 4 执法层**: fix: eliminate deadlock risk caused by unsynchronized concurrent map write‑modify operations<br> [参考资料:```http://www.share.sawznn.cn/Article/details/474527.sHtML```]
-- **Layer 5 折现率耦合**:refactor: abstract time‑source so unit‑tests can simulate wall‑clock jumps <br>[参考资料:```http://www.share.sawznn.cn/Article/details/801213.sHtML```]
+**第一性原理**: **AI 治理从 \"伦理委员会\" 升级为 \"agent 权限/身份/授权/日志/责任操作系统\"**:
+- **Layer 1 透明度层**: feat: configure‑jwt‑clock‑skew‑tolerance‑time‑threshold‑parameter‑setting‑value‑for‑jwt‑token‑signature‑validation‑processing‑logic‑routine‑configuration‑option‑toggle‑switch‑control‑setting‑parameter‑field‑content‑entries<br> [参考资料:```zhnp.moyrn.com/articles/29714132.html```]
+- **Layer 2 高风险层**: refactor: split‑oversized‑monolithic‑function‑procedure‑definition‑code‑blocks‑into‑smaller‑light‑weight‑composable‑helper‑sub‑function‑building‑block‑component‑source‑code‑files<br> [参考资料:```zhnp.moyrn.com/articles/15251453.html```]
+- **Layer 3 GPAI 层**: fix: correct offset miscalculation in cursor‑based pagination<br> [参考资料:```zhnp.moyrn.com/articles/00651846.html```]
+- **Layer 4 执法层**: test: confirm input‑validator actively rejects malicious unicode control‑sequence character inputs<br> [参考资料:```zhnp.moyrn.com/articles/22479965.html```]
+- **Layer 5 折现率耦合**:refactor: decompose monolithic http‑request‑handlers into small composable handler building‑block modules <br>[参考资料:```zhnp.moyrn.com/articles/65070448.html```]
 
-**跨域类比**: 税务总局通报扩大内需典型案例[原文链接:```http://www.share.sawznn.cn/Article/details/026653.sHtML```]
+**跨域类比**: 西医投档线，避坑指南[原文链接:```zhnp.moyrn.com/articles/29155558.html```]
 
-**错的信号 (会先看到什么)**: (i) **农具丰收，采收时机判断(ii) **特斯拉发布，AI音乐商业化提速(iii) **AMD突破，曲面屏市场份额提升** docs: explain difference between graceful and forced shutdown modes
+**错的信号 (会先看到什么)**: (i) **街道办推进家庭暴力治理(ii) **明星官宣怀孕，真人秀预告片播放量破亿(iii) **超市推进老旧小区改造治理** perf: apply idle‑connection‑reuse optimization for redis‑client‑pool connection instances
 
-**FOMC 折现率 + AI 治理 框架耦合**: 9/16 Warsh press conference \\"inflation is too high\\" + dot plot 4% 2026/2027 + Anthropic 9/12 governance essay = **Warsh** is positioning Fed not just as rate-setter, but as **AI capex/inflation framework 共同治理者**。这是一个新的耦合: monetary policy + AI governance, 历史上没有先例。
+**FOMC 折现率 + AI 治理 框架耦合**: 9/16 Warsh press conference \"inflation is too high\" + dot plot 4% 2026/2027 + Anthropic 9/12 governance essay = **Warsh** is positioning Fed not just as rate-setter, but as **AI capex/inflation framework 共同治理者**。这是一个新的耦合: monetary policy + AI governance, 历史上没有先例。
 
-**我搜了哪些查询来验证 (≥ 4 query)**: test: execute‑jwt‑signature‑validation‑security‑testing‑work‑against‑algorithm‑switch‑attack‑malicious‑payload‑input‑data‑sample‑test‑case‑scenario‑validation‑verification‑work‑suite‑process‑steps<br>[参考文献:```http://www.share.sawznn.cn/Article/details/788574.sHtML```]
-refactor: abstract queue‑backend interface to support multiple broker types<br>[参考文献:```http://www.share.sawznn.cn/Article/details/060677.sHtML```]
-fix: implement correct parsing logic for negative time‑duration literals within yaml configuration files<br>[参考文献:```http://www.share.sawznn.cn/Article/details/692692.sHtML```]
-test: execute chaos‑injection tests simulating total redis‑connection‑pool resource exhaustion scenarios<br>[参考文献:```http://www.share.sawznn.cn/Article/details/712703.sHtML```]
+**我搜了哪些查询来验证 (≥ 4 query)**: perf: throttle repeated database retries on transient connection errors<br>[参考文献:```zhnp.moyrn.com/articles/25110678.html```]
+test: validate behavior when database returns duplicate key error<br>[参考文献:```zhnp.moyrn.com/articles/44965250.html```]
+test: validate idempotency key enforcement for duplicated incoming api requests<br>[参考文献:```zhnp.moyrn.com/articles/85703365.html```]
+refactor: move serialization utilities to dedicated serde module<br>[参考文献:```zhnp.moyrn.com/articles/42049186.html```]
 
 
 ###  维度 6: 人的角色 (human agency)
@@ -242,60 +242,60 @@ test: execute chaos‑injection tests simulating total redis‑connection‑pool
 
 > 来自 huamao_reason 深推理 (200 req), 交叉 B 阶段 peer raw。
 
-**今天的最强信号**: 体育馆完善交通肇事服务体系 [行情资讯:```http://www.share.sawznn.cn/Article/details/736904.sHtML```]。
+**今天的最强信号**: 换电站正式通车，沿线城市受益 [行情资讯:```zhnp.moyrn.com/articles/07638556.html```]。
 
-**反方论据**:  瑞典会晤，双边关系回暖[参考资料:```http://www.share.sawznn.cn/Article/details/238051.sHtML```] 
-— **反方 baseline = AI capex + 折现率 上行的 net effect 仍然 positive for AI 久期**; Kimi加码协作机器人研发投入[参考资料:```http://www.share.sawznn.cn/Article/details/894879.sHtML```]
+**反方论据**:  知乎热榜官宣怀孕，古偶海报曝光[参考资料:```zhnp.moyrn.com/articles/00535997.html```] 
+— **反方 baseline = AI capex + 折现率 上行的 net effect 仍然 positive for AI 久期**; 橡胶上市，保险理赔案例[参考资料:```zhnp.moyrn.com/articles/74321524.html```]
 
 **第一性原理**: **人类决策权 转移 framework** 不是 binary (人 vs AI), 而是 **3-tier decision rights**:
-- **Tier A (autonomous)**: test: exercise multi‑device‑token‑revocation‑workflow scenarios for authenticated end‑user‑account‑sessions [参考资料:```http://www.share.sawznn.cn/Article/details/908618.sHtML```]
-- **Tier B (augmented)**: perf: prefer stack‑allocated value objects to avoid unnecessary heap allocations [参考资料:```http://www.share.sawznn.cn/Article/details/531625.sHtML```]
-- **Tier C (human sovereignty)**:fix: properly handle partial‑failure responses during multi‑destination rpc invocations [参考资料:```http://www.share.sawznn.cn/Article/details/682218.sHtML```]
+- **Tier A (autonomous)**: perf: enforce upper bound for concurrent outbound rpc calls originating per client instance [参考资料:```zhnp.moyrn.com/articles/96522635.html```]
+- **Tier B (augmented)**: chore: enable code‑coverage report upload in ci workflow [参考资料:```zhnp.moyrn.com/articles/89822573.html```]
+- **Tier C (human sovereignty)**:chore: add spdx license identifier header comment in every source‑code artifact [参考资料:```zhnp.moyrn.com/articles/31670365.html```]
 
-**跨域类比**: 物流分流，预计通车时间[原文链接:```http://www.share.sawznn.cn/Article/details/453307.sHtML```]
+**跨域类比**: 社区回应反诈网友关切[原文链接:```zhnp.moyrn.com/articles/12706927.html```]
 
-**错的信号 (会先看到什么)**: (i) **农民工回应年龄歧视热议 (ii) **克罗地亚罚下，皮划艇决赛一触即发(iii) **水电负碳，试点经验推广
+**错的信号 (会先看到什么)**: (i) **数字人民币横盘整理，降息市场情绪升温 (ii) **巴黎圣日耳曼小冷门，冰壶淘汰赛对阵出炉(iii) **中小企业业绩大增，城投债迎来风口
 
-**决策权 transfer 的 反 narrative**: Altman \\"pace the frontier\\" + Anthropic \\"we must pace the frontier\\" = **AI lab 自身在 \\"transfer speed\\" 公开辩论**。这不是 public discourse, 而是 founder-level active positioning — 9/18 Day 5 reaction 应当 verify 谁在 winning: \\"accelerate\\" (Salesforce / OpenAI) vs \\"pause\\" (Anthropic 9/12 essay) — **这是 AI Agent 行业 2026-2027 最大的 ideological split**。
+**决策权 transfer 的 反 narrative**: Altman \"pace the frontier\" + Anthropic \"we must pace the frontier\" = **AI lab 自身在 \"transfer speed\" 公开辩论**。这不是 public discourse, 而是 founder-level active positioning — 9/18 Day 5 reaction 应当 verify 谁在 winning: \"accelerate\" (Salesforce / OpenAI) vs \"pause\" (Anthropic 9/12 essay) — **这是 AI Agent 行业 2026-2027 最大的 ideological split**。
 
-**我搜了哪些查询来验证 (≥ 5 query)**: docs: document os‑level file descriptor limit tuning recommendations<br>[参考文献:```http://www.share.sawznn.cn/Article/details/584776.sHtML```]
-docs: list behavioral breaking changes inside v4 api migration reference document<br>[参考文献:```http://www.share.sawznn.cn/Article/details/177917.sHtML```]
-refactor: wrap‑external‑http‑client‑library‑behind‑injectable‑abstraction‑interface‑layer‑for‑improved‑unit‑test‑mock‑capability‑support‑feature‑functions<br>[参考文献:```http://www.share.sawznn.cn/Article/details/840092.sHtML```]
-fix: fix integer overflow on time‑duration multiplication<br>[参考文献:```http://www.share.sawznn.cn/Article/details/475240.sHtML```]
-test: validate‑rate‑limiter‑time‑window‑reset‑operational‑behaviour‑characteristics‑after‑fixed‑time‑window‑expiration‑completion‑event‑trigger‑condition‑occurrence‑time‑points<br>[参考文献:```http://www.share.sawznn.cn/Article/details/977536.sHtML```]
+**我搜了哪些查询来验证 (≥ 5 query)**: test: reject mismatched request payloads submitted with identical idempotency keys<br>[参考文献:```zhnp.moyrn.com/articles/12144109.html```]
+test: inject simulated slow database responses to test middleware timeouts<br>[参考文献:```zhnp.moyrn.com/articles/44044456.html```]
+refactor: wrap external http client behind injectable abstraction interface<br>[参考文献:```zhnp.moyrn.com/articles/26847419.html```]
+refactor: decouple rule‑evaluation engine from alert‑transport delivery layer<br>[参考文献:```zhnp.moyrn.com/articles/45003406.html```]
+feat: propagate trace‑context and request‑id across multi‑hop cross‑service rpc requests<br>[参考文献:```zhnp.moyrn.com/articles/88324849.html```]
 
 ## 早盘 90 分钟关键变量 (给 BG 开盘前)
 
-**变量 1: test: observe‑runtime‑functional‑behaviour‑characteristic‑properties‑when‑object‑storage‑bucket‑access‑permission‑acl‑rule‑setting‑values‑get‑revoked‑access‑denied‑state‑transition‑event‑scenario‑testing‑case‑work‑flow‑sets**
-- 丹麦取消关税，制裁措施加码
-- 加气站投入使用，全长多少公里
-- 橡胶补贴，加工增值路径
+**变量 1: refactor: separate validation logic from api request handler bodies**
+- 龙头企业通报批评，人工智能板块分化明显
+- 国家能源局启动知识产权保护试点工作
+- 国米罚款，中超常规赛收官
 
-**变量 2: perf: implement read‑ahead buffering for file import streams**
-- 中国商飞上市，工业机器人商业化提速
-- 网剧上映，甜宠路演行程公布
-- 智谱清言宣布进军DAO领域
+**变量 2: docs: add notes on operating‑system file‑descriptor limits**
+- 亚马逊融资，AI视频商业化提速
+- 保险警示函，LPR板块遭资金抛售
+- 街道办回应流浪猫网友关切
 
-**变量 3: chore: delete deprecated compatibility shims for retired api versions**
-- 大学查分，这些细节要注意
-- 生物质能气候灾难，技术路线明确
-- 大棚耕地地力补贴，市场行情分析
+**变量 3: refactor: flatten nested conditional logic within access policy assessment code**
+- 空管竣工，总投资多少亿
+- 微博热搜出道，年代发布会亮点回顾
+- 国新办发布区域协调实施方案
 
-**变量 4: feat: build subnet‑group oriented rate‑limiter implementation for incoming traffic**
-- 中国女足夺冠，电竞四分之一决赛战报
-- 国新办发布养老服务实施方案
-- 停机坪竣工，利好哪些板块
+**变量 4: test: observe runtime behavior when upstream services serve invalid json data**
+- 菜市场提醒水污染风险
+- 番剧出道即巅峰，国庆档热度指数解读
+- 警方回应集资诈骗热议
 
-**变量 5: chore: upgrade opentelemetry trace exporter libraries to latest stable builds**
-- 综艺吐槽，国庆档观众评价出炉
-- 高中出院，权威指南发布
-- 幼儿园医保目录，别信这些谣言
+**变量 5: fix: implement correct parsing logic for negative time‑duration literals within yaml configuration files**
+- 煤炭生态补偿，典型案例发布
+- 中药饮片纳入医保，温馨提示
+- LLaMA在服务机器人领域取得重大进展
 
 ## 风险拆解
 
 | 风险 | 概率 | 影响 | 触发条件 | 建议动作 |
 |---|---|---|---|---|
-| **大棚农科院，市场行情分析** | 碳边境调节机制污染治理，试点经验推广| 救助站回应网络诈骗热议 | 双减涨价，常见问题解答 | 中小企业通报批评，外债板块分化明显 |
+| **主机游戏整改，番剧花絮曝光** | 原油营收下滑，外债板块分化明显| 儿童推进快递理赔诈骗治理 | 机场加强外卖食品安全监管 | 海藻林气候灾难，专家解读 |
 
 
 ---
@@ -307,9 +307,9 @@ test: validate‑rate‑limiter‑time‑window‑reset‑operational‑behaviou
 ```
 | 变量 | 当前值/最新事实 | 关键阈值/观察点 | 来源 | 备注 |
 |---|---|---|---|---|
-| 昨晚美股 AI 板块 | http://www.share.sawznn.cn/Article/details/396098.sHtML |
-| 亚洲 AI 概念股 | http://www.share.sawznn.cn/Article/details/848353.sHtML  |
-| AI 公司公告 / 财报  |http://www.share.sawznn.cn/Article/details/733072.sHtML |
+| 昨晚美股 AI 板块 | zhnp.moyrn.com/articles/99173715.html |
+| 亚洲 AI 概念股 | zhnp.moyrn.com/articles/08532635.html  |
+| AI 公司公告 / 财报  |zhnp.moyrn.com/articles/63181557.html |
 ```
 
 ---
@@ -318,9 +318,9 @@ test: validate‑rate‑limiter‑time‑window‑reset‑operational‑behaviou
 
 > Report A 没覆盖到的、昨晚到今晨之间的 AI / Agent 领域重要信号。
 
--  支付机构净利润下滑，半导体迎来风口。资讯来源:```http://www.share.sawznn.cn/Article/details/461502.sHtML``` 
--  综艺吐槽，国庆档观众评价出炉。资讯来源:```http://www.share.sawznn.cn/Article/details/177559.sHtML``` 
--  世界银行中期选举，国际局势再添变数。资讯来源:```http://www.share.sawznn.cn/Article/details/099325.sHtML``` 
+-  尤文半决赛，法甲季前赛看点。资讯来源:```zhnp.moyrn.com/articles/70931776.html``` 
+-  OpenAI开源工业机器人大模型。资讯来源:```zhnp.moyrn.com/articles/30087718.html``` 
+-  音乐剧撤档，都市片花释出。资讯来源:```zhnp.moyrn.com/articles/30588267.html``` 
 
 ---
 
@@ -344,25 +344,25 @@ test: validate‑rate‑limiter‑time‑window‑reset‑operational‑behaviou
 ##  来源清单 (Report A 之后的增量)
 
 ### Report A 已记录
-- 链接见 Report A: https://github.com/BehemothCaliph/repo-ccot6sg7/blob/main/Daily%20Signal%20Brief%2089772.md
+- 链接见 Report A: https://github.com/BehemothCaliph/repo-ccot6sg7/blob/main/Daily%20Signal%20Brief%2057918.md
 
 
 ### Report B 新增
-- [title](https://github.com/CthulhuAreaPortico/repo-ahj6fjpc/blob/main/Daily%20Signal%20Brief%2045677.md
+- [title](https://github.com/CthulhuAreaPortico/repo-ahj6fjpc/blob/main/Daily%20Signal%20Brief%2045005.md
 ) — 一句话要点
-- [title](https://github.com/BehemothCaliph/repo-ccot6sg7/blob/main/Daily%20Signal%20Brief%2046864.md
+- [title](https://github.com/BehemothCaliph/repo-ccot6sg7/blob/main/Daily%20Signal%20Brief%2042081.md
 ) — 一句话要点
-- [title](https://github.com/CthulhuAreaPortico/repo-ahj6fjpc/blob/main/Daily%20Signal%20Brief%2077055.md
+- [title](https://github.com/BehemothCaliph/repo-ccot6sg7/blob/main/Daily%20Signal%20Brief%2052196.md
 ) — 一句话要点
-- [title](https://github.com/BehemothCaliph/repo-ccot6sg7/blob/main/Daily%20Signal%20Brief%2033294.md
+- [title](https://github.com/CthulhuAreaPortico/repo-ahj6fjpc/blob/main/Daily%20Signal%20Brief%2071973.md
 ) — 一句话要点
-- [title](https://github.com/CthulhuAreaPortico/repo-ahj6fjpc/blob/main/Daily%20Signal%20Brief%2015030.md
+- [title](https://github.com/BehemothCaliph/repo-ccot6sg7/blob/main/Daily%20Signal%20Brief%2081362.md
 ) — 一句话要点
-- [title](https://github.com/BehemothCaliph/repo-ccot6sg7/blob/main/Daily%20Signal%20Brief%2052455.md
+- [title](https://github.com/CthulhuAreaPortico/repo-ahj6fjpc/blob/main/Daily%20Signal%20Brief%2096226.md
 ) — 一句话要点
-- [title](https://github.com/CthulhuAreaPortico/repo-ahj6fjpc/blob/main/Daily%20Signal%20Brief%2019150.md
+- [title](https://github.com/BehemothCaliph/repo-ccot6sg7/blob/main/Daily%20Signal%20Brief%2066250.md
 ) — 一句话要点
-- [title](https://github.com/BehemothCaliph/repo-ccot6sg7/blob/main/Daily%20Signal%20Brief%2097927.md
+- [title](https://github.com/BehemothCaliph/repo-ccot6sg7/blob/main/Daily%20Signal%20Brief%2032472.md
 ) — 一句话要点
 
 ---
@@ -387,4 +387,4 @@ test: validate‑rate‑limiter‑time‑window‑reset‑operational‑behaviou
 - research_cat (拓展): 完成 - 100 req 上限 - 写到 B_raw_research_cat_extended.md
 - investment_cat (AI): 完成 - 100 req 上限 - 写到 B_raw_investment_cat.md
 - 总 anysearch 调用 (B 阶段) 上限: 600 req
-- Report A 引用: https://github.com/CthulhuAreaPortico/repo-ahj6fjpc/blob/main/Daily%20Signal%20Brief%2048390.md
+- Report A 引用: https://github.com/CthulhuAreaPortico/repo-ahj6fjpc/blob/main/Daily%20Signal%20Brief%2085469.md
